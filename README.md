@@ -1,0 +1,2 @@
+# TwiNameExtentionChanger
+TwitterAPI経由でユーザネームを拡張子付きの名前に変更します。
